@@ -1,0 +1,155 @@
+/* this is the style for Css*/
+
+
+#Me{padding: -10px; height: 5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;}
+
+
+/* header*/
+
+
+.para{
+    overflow: auto;
+    width: 300px;
+    height: 300px;
+}
+            body{background-color: bisque;}
+            header{background-color: rgb(245, 170, 59); }
+            header{
+                width: 100%;
+              
+                top: 0;
+                z-index: 100;
+                position: fixed;}
+            header{font-size: 25;}
+            footer{background-color: rgb(187, 187, 162);
+            margin-top: 100%;
+        text-align: center;
+    font-size: 15px;}
+             head{background-color: rgb(231, 179, 179); color: blue;}
+       section{
+        background-color: aquamarine;
+        color: red;
+      line-height:1.5;
+      padding: 30px;}
+        i{font-size: 50px;}
+        video{width:75%;}
+        audio{width: 25%;}
+        details{height:25%;}
+       
+       
+        #Gech{font-size: 30px;
+            padding: 100px;
+            text-align: center;
+        }
+        #T1{text-align: center;}
+        #wellcome{color: blueviolet;}
+        #to_web_of{color: brown;}
+        #Getu_Mulatu{color: green;}
+        .techno{padding: 10px;
+        background-color: rgb(191, 186, 196);}
+        #con1{border:10px solid green;
+            width: 100;
+            height: 100;
+        padding: 50px 50px 50px 50px;
+        margin: 50px 50px 50px 50px;}
+        .Hard{border: 5px solid;
+        padding: 25px;
+        margin-top: 250px;
+         height: 50px;
+         width: 100%;
+         text-align: center;
+    }
+    .box{
+        /*border-top: 5px solid violet;
+        border-bottom: 5px solid rgb(130, 238, 184);
+        border-left: 5px solid rgb(238, 182, 130);
+        border-right: 5px solid rgb(150, 130, 238);*/
+        display: inline-block;
+        border: 5px solid white;
+         width: 150px;
+         height: 150px;
+       
+         padding: 50px auto;
+         margin: 50px ;
+   
+text-align: center;
+line-height: 150px;}
+      #box1{background-color: rgb(144, 211, 231);} 
+      #box2{background-color: rgb(231, 144, 177);} 
+      #box3{background-color: rgb(248, 224, 8);} 
+      #box_wrapp{background-color: lightcoral;
+    position: static;}
+    /* Navigation or menu css*/
+.menu_list{background-color: rgb(245, 170, 59);
+text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.menu_list li a{color: rgb(8, 0, 0);}
+.menu_list li{display:inline-block;
+height: 1.5px;
+margin: 25px;
+padding: 15px;
+text-align: center;}
+.form
+{
+    margin-top: 280px;
+    margin-left: 50px;
+    margin-right: 50px;   
+}
+
+
+.file{
+text-align: center;   
+margin-top: 280px;
+margin-left: 50px;
+margin-right: 50px;}
+
+.active{border-bottom: 4px solid red;}
+.meter{
+    background: rgb(92, 132, 219);
+    color: white;
+    margin: 15px;
+    padding: 20px;
+}
+.progress{
+    background: rgb(114, 56, 56);
+    color: white;
+    padding: 20px;
+    margin: 15px;
+    }
+.For{
+    margin-top: 200px;
+}
+
+section{
+    margin-bottom: 400px;
+    margin-top: 500px;
+}
+form{background-color: rgb(164, 207, 163);
+    
+padding: 30px;
+margin: 10px;}
+
+input[type="text"] ,
+ input[type="email"],
+ input[type="date"] ,
+ input[type="number"],
+ textarea,
+  select{
+    width: 25%;
+    height: 5px;
+    padding: 15px;
+    margin: 6px;
+    border: 2px solid rgba(143, 102, 102, 0.25);
+    border-radius: 10px;
+    display: block;
+  }
+  .btn{
+    padding: 10px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 10px;
+    color: rgb(253, 252, 255);
+    cursor: pointer;
+  }
+  .cont{background-color: rgb(184, 140, 226);
+}
